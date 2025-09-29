@@ -1,9 +1,12 @@
-리눅스 명령어
-history | less
+Go 명령어
+go mod init 프로젝트 폴더명>>go.mod 생성
+go run 파일명.go
+go build 파일명.go
 
-깃허브 명령어
-git commit --amend -m "수정할 커밋 메세지"
-git reset --hard HEAD~최근 커밋부터 삭제 할 개수
-git fetch
-git pull
-git push -f origin main
+깃 명령어
+git reset
+git merge 브랜치명
+
+기타
+.gitignore 파일 생성 (*.exe)
+package, import, func
